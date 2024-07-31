@@ -1,0 +1,5 @@
+package teka.com.templates
+
+class {{ class }}Service {
+    // Service logic for {{ class }}
+}
