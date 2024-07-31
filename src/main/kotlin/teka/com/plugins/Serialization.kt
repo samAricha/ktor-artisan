@@ -1,4 +1,4 @@
-package example.com.plugins
+package teka.com.plugins
 
 import io.ktor.serialization.kotlinx.json.*
 import io.ktor.server.application.*
